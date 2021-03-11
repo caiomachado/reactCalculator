@@ -12,5 +12,5 @@ Then you can run yarn start to start the project.
 
 Here are a few images of what the app looks like:
 
-![Dark Theme](images/readme/dark-theme.png)
-![Light Theme](images/readme/light-theme.png)
+![Dark theme](https://user-images.githubusercontent.com/67983948/110729711-f27e3b00-81fd-11eb-85c6-4e8c2636584e.png)
+![Light theme](https://user-images.githubusercontent.com/67983948/110729721-f5792b80-81fd-11eb-81f1-20db52f48427.png)
