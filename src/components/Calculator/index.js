@@ -29,19 +29,11 @@ const Calculator = () => {
     }
     
     if (firstValue && !operation) {
-      if (firstValue.length === 18) {
-        return;
-      } else {
-        setFirstValue(firstValue + e.target.innerHTML);
-      }
+      setFirstValue(firstValue + e.target.innerHTML);
     }
 
     if (operation && secondValue) {
-      if (secondValue.length === 18) {
-        return;
-      } else {
-        setSecondValue(secondValue + e.target.innerHTML);
-      }
+      setSecondValue(secondValue + e.target.innerHTML);
     }
   }
 

@@ -28,6 +28,7 @@ export const Container = styled.div`
       flex-direction: column;
       align-items: flex-end;
       justify-content: flex-end;
+      overflow: hidden;
 
       p {
         font-size: 25px;
